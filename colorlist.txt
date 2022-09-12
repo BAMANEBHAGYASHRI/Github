@@ -1,2 +1,10 @@
 colorlist 
 -------------------
+php
+java
+js
+nodejs
+python
+html
+css
+mysql
