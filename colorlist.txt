@@ -1,6 +1,17 @@
 colorlist 
 -------------------
+<<<<<<< HEAD
 pink
 red
 yellw
 blue
+=======
+php
+java
+js
+nodejs
+python
+html
+css
+mysql
+>>>>>>> php
