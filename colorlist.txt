@@ -1,2 +1,6 @@
 colorlist 
 -------------------
+pink
+red
+yellw
+blue
